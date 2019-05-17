@@ -50,8 +50,10 @@ Pasting a logo on an image
 
 Donate
 ------
+`don't donate`_.
 
-.. _please donate today: https://venmo.com/LOVER
+.. _don't donate: https://venmo.com/LOVER
+
 
 
 Works Cited
@@ -61,4 +63,4 @@ Works Cited
 * Python for beginners Tutorial on Pillow: https://www.pythonforbeginners.com/gui/how-to-use-pillow
 * Intro to Pillow: https://www.blog.pythonlibrary.org/2016/10/07/an-intro-to-the-python-imaging-library-pillow/
 
-.. me: https://lokinario.github.io
+
