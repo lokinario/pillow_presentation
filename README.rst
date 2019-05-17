@@ -31,8 +31,10 @@ Loading a picture
     img.show()
     
 .. image:: ./pics/me_top_left.jpg
-    
-
+   :height: 3024 px
+   :width:  4032 px
+   :scale: 50 %
+   
 Pasting a logo on an image  
 
 .. code-block:: python
@@ -46,8 +48,10 @@ Pasting a logo on an image
     img_copy.show()
     
 .. image:: ./logoed/me_top_left_logo.jpg
- 
-
+   :height: 1512 px
+   :width:  2016 px
+   :scale: 50 %
+   
 Donate
 ------
 `don't donate`_.
