@@ -1,16 +1,10 @@
 Beginner Pillow Tutorial 
 =====
 
-Flask is a lightweight `WSGI`_ web application framework. It is designed
-to make getting started quick and easy, with the ability to scale up to
-complex applications. It began as a simple wrapper around `Werkzeug`_
-and `Jinja`_ and has become one of the most popular Python web
-application frameworks.
+A lot of applications use digital images, and with this there is usually a need to process the images used. If you are building your application with Python and need to add image processing features to it, there are various libraries you could use. Some popular ones are OpenCV, scikit-image, Python Imaging Library and Pillow.
 
-Flask offers suggestions, but doesn't enforce any dependencies or
-project layout. It is up to the developer to choose the tools and
-libraries they want to use. There are many extensions provided by the
-community that make adding new functionality easy.
+This tutorial will focus on Pillow, a library that is powerful, provides a wide array of image processing features, and is simple to use.
+
 
 
 Installing
@@ -34,8 +28,9 @@ Loading a picture
     img = Image.open('.pics/handsome.jpg')
 
     img.show()
-    .. image:: ./pics/handsome.jpg
-       :width: 40pt
+    
+.. image:: ./pics/handsome.jpg
+   :width: 40pt
 
 Pasting a logo on an image
 .. code-block:: python
@@ -47,8 +42,9 @@ Pasting a logo on an image
     location = (525, 1109)
     img_copy.paste(logo, position,logo)
     img_copy.show()
-    .. image:: ./logoed/handsome.jpg
-       :width: 40pt
+    
+.. image:: ./logoed/handsome.jpg
+   :width: 40pt
 
 Donate
 ------
