@@ -21,30 +21,32 @@ Some Concepts with Examples
 ----------------
 
 Loading a picture
+
 .. code-block:: python
 
     from PIL import Image
 
-    img = Image.open('.pics/handsome.jpg')
+    img = Image.open('.pics/me_top_left.jpg')
 
     img.show()
     
-.. image:: ./pics/handsome.jpg
-   :width: 40pt
+.. image:: ./pics/me_top_left.jpg
+   :scale: 50 %
 
-Pasting a logo on an image
+Pasting a logo on an image  
+
 .. code-block:: python
 
     from PIL import Image
 
-    img = Image.open('.pics/handsome.jpg')
+    img = Image.open('.pics/me_top_left.jpg')
     img_copy = img.copy()
     location = (525, 1109)
     img_copy.paste(logo, position,logo)
     img_copy.show()
     
-.. image:: ./logoed/handsome.jpg
-   :width: 40pt
+.. image:: ./logoed/me_top_left_logo.jpg
+   :scale: 50 %
 
 Donate
 ------
