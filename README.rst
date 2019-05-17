@@ -31,7 +31,7 @@ Loading a picture
     img.show()
     
 .. image:: ./pics/me_top_left.jpg
-   :scale: 50 %
+    
 
 Pasting a logo on an image  
 
@@ -46,7 +46,7 @@ Pasting a logo on an image
     img_copy.show()
     
 .. image:: ./logoed/me_top_left_logo.jpg
-   :scale: 50 %
+ 
 
 Donate
 ------
