@@ -1,10 +1,15 @@
 Beginner Pillow Tutorial 
 =====
 
+Introduction
+*************
 A lot of applications use digital images, and with this there is usually a need to process the images used. If you are building your application with Python and need to add image processing features to it, there are various libraries you could use. Some popular ones are OpenCV, scikit-image, Python Imaging Library and Pillow.
 
 This tutorial will focus on Pillow, a library that is powerful, provides a wide array of image processing features, and is simple to use.
 
+Goals
+*******
+Through this tutorial I hope to take my audience on a journey of self discovery of the wonderous world of Pillow -kidding- I hope to instill the knowledge of Pillow's use cases for image manipulation. 
 
 
 Installing
@@ -16,8 +21,16 @@ Install and update using `pip`_:
 
     pip install -U pillow
 
+Concepts
+----------------
+- Bands 
+- Modes
+- Size
+- Data 
+- Cordinate System 
+- Filters
 
-Some Concepts with Examples
+Examples
 ----------------
 
 Loading a picture
@@ -61,7 +74,8 @@ Donate
 
 
 Works Cited
------
+************
+
 * Pillow Documentation: https://pillow.readthedocs.io/en/stable/
 * auth0 image processing with Pillow: https://auth0.com/blog/image-processing-in-python-with-pillow/
 * Python for beginners Tutorial on Pillow: https://www.pythonforbeginners.com/gui/how-to-use-pillow
