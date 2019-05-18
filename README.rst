@@ -69,9 +69,6 @@ Donate
 ------
 `don't donate`_.
 
-.. _don't donate: https://venmo.com/LOVER
-
-
 
 Works Cited
 ************
@@ -82,3 +79,5 @@ Works Cited
 * Intro to Pillow: https://www.blog.pythonlibrary.org/2016/10/07/an-intro-to-the-python-imaging-library-pillow/
 
 
+.. _pip: https://pip.pypa.io/en/stable/quickstart/
+.. _don't donate: https://venmo.com/LOVER
