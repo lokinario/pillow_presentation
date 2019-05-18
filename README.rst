@@ -27,8 +27,6 @@ Concepts
 - Modes
 - Size
 - Data 
-- Cordinate System 
-- Filters
 
 Examples
 ----------------
