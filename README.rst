@@ -9,7 +9,9 @@ This tutorial will focus on Pillow, a library that is powerful, provides a wide 
 
 Goals
 *******
-Through this tutorial I hope to take my audience on a journey of self discovery of the wonderous world of Pillow -kidding- I hope to instill the knowledge of Pillow's use cases for image manipulation. 
+Through this tutorial I hope to take my audience on a journey of self discovery of the wonderous world of Pillow -kidding- I hope to instill the knowledge of Pillow's use cases for image manipulation.  
+
+When ever you get to work with images for a product I want you to think "hmm maybe I can use pillow"
 
 
 Installing
